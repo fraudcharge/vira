@@ -9,7 +9,7 @@ local theme_manager = loadstring(game:HttpGet(repo .. 'Gui%20Lib%20%5BThemeManag
 local save_manager = loadstring(game:HttpGet(repo .. 'Gui%20Lib%20%5BSaveManager%5D'))()
 
 local window = library:CreateWindow({
-    Title = "Astolfo Ware | Made By @kylosilly | discord.gg/SUTpER4dNc",
+    Title = "Made By @vir | discord.gg/wdhc",
     Center = true,
     AutoShow = true,
     TabPadding = 8,
